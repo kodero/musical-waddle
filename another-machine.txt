@@ -1,1 +1,2 @@
 Text from another machine
+Some other text
